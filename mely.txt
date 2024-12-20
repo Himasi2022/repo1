@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-mely
-lion
-humay
-senangun
-=======
-haiii 
->>>>>>> 846e354eecae1b4a12e9bc29ab127469984b71c4
